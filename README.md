@@ -4,7 +4,7 @@
   I love to connect with new people and admire everyone having a passion for coding.
 
   ABOUT ME:-
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at https://github.com/rashika03
 - 💬 Ask me about ** HTML,CSS,JavaScript,C,C++ language **
 - 📫 How to reach me rashikagupta139@gmail.com
 
