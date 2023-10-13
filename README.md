@@ -7,7 +7,7 @@
 
   ABOUT ME:-
 - 👨‍💻 All of my projects are available at https://github.com/rashika03
-- 💬 Ask me about ** HTML,CSS,JavaScript,C,C++ language **
+- 💬 Ask me about ** HTML,CSS,JavaScript,C,C++ language,Wordpress **
 - 📫 How to reach me rashikagupta139@gmail.com
 
 <!---
